@@ -9,7 +9,7 @@ html {
     font-size: 62.5%;
 }
 
-@media (min-width: 375px) and (max-width:1000px) {
+@media (min-width: 320px) and (max-width:1000px) {
     .Table-general {
         display: flex;
         flex-direction: column;
@@ -84,7 +84,6 @@ html {
 
     footer {
         margin-top: 245px;
-        margin-left: 46px;
         font-family: Montserrat;
         font-weight: 700;
         font-size: 14px;
